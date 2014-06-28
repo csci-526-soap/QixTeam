@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<game totalLevel="4" unlockedLevel="4" life="3">
+
+	<armors>
+        <armor name="sun" id="" description="">
+        </armor>
+        <armor name="moon" id="" description="">
+        </armor>
+        <armor name="scatteredMissile" id="" description="" fireDuration="" count="">
+        </armor>
+    </armors>
+
+    <players>
+        <player id="1" name="highDefence" velocity="" accelerateRate="" initNitrogen="" nitrogenAddedRatio="" nitrogenConsumptionRatio="" defence="" description="">
+			<armor />
+		</player>
+        <player id="2" name="agile" velocity="" accelerateRate="" initNitrogen="" nitrogenAddedRatio="" nitrogenConsumptionRatio="" defence="" description="">
+			<armor />
+		</player>
+        <player id="3" name="highAttack" velocity="" accelerateRate="" initNitrogen="" nitrogenAddedRatio="" nitrogenConsumptionRatio="" defence="" description="">
+			<armor />
+		</player>
+    </players>
+
+	<qixs>
+		<qix name="walker" id="1" runDirection="" clockwise="" speed=""></qix>
+		<qix name="walker" id="2" runDirection="" clockwise="" speed=""></qix>
+		<qix name="guard" id="10" radius="20"></qix>
+		<qix name="missileQix" id="20" fireInterval="" fireDuration="" moveDuration="" moveMaxStep=""></qix>
+	</qixs>
+</game>

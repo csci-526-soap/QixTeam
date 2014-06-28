@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>2CDDA252-371A-4E2C-938F-65B82E427396</string>
+	<key>IDESourceControlProjectName</key>
+	<string>SpaceQixBox2d</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>7F7E056B-DA03-4A7E-BC4C-B0CBF4478E24</key>
+		<string>http://triforce.usc.edu/svn/2014SPRING/MobileGames/Qix/trunk</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>SpaceQixBox2d.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>7F7E056B-DA03-4A7E-BC4C-B0CBF4478E24</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>7F7E056B-DA03-4A7E-BC4C-B0CBF4478E24</key>
+		<string>http://triforce.usc.edu/svn/2014SPRING</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>http://triforce.usc.edu/svn/2014SPRING/MobileGames/Qix/trunk/SpaceQixBox2d/SpaceQixBox2d.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>7F7E056B-DA03-4A7E-BC4C-B0CBF4478E24</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryBranchesRelativeLocationKey</key>
+			<string>MobileGames/Qix/branches</string>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlRepositoryTagsRelativeLocationKey</key>
+			<string>MobileGames/Qix/tags</string>
+			<key>IDESourceControlRepositoryTrunkRelativeLocationKey</key>
+			<string>MobileGames/Qix/trunk</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>7F7E056B-DA03-4A7E-BC4C-B0CBF4478E24</string>
+			<key>IDESourceControlWCCName</key>
+			<string>SpaceQixBox2d</string>
+		</dict>
+	</array>
+</dict>
+</plist>

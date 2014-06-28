@@ -1,0 +1,828 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		
+		<key>giantQix0.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {164, 181}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{164, 181}</string>
+			<key>spriteSourceSize</key>
+			<string>{164, 181}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 0}, {164, 181}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>giantQix1.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {164, 181}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{164, 181}</string>
+			<key>spriteSourceSize</key>
+			<string>{164, 181}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{166, 0}, {164, 181}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>giantQix10.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {172, 174}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{172, 174}</string>
+			<key>spriteSourceSize</key>
+			<string>{172, 174}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{332, 0}, {172, 174}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>giantQix11.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {172, 181}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{172, 181}</string>
+			<key>spriteSourceSize</key>
+			<string>{172, 181}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{506, 0}, {172, 181}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>giantQix12.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {171, 184}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{171, 184}</string>
+			<key>spriteSourceSize</key>
+			<string>{171, 184}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{680, 0}, {171, 184}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>giantQix13.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {170, 182}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{170, 182}</string>
+			<key>spriteSourceSize</key>
+			<string>{170, 182}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{853, 0}, {170, 182}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>giantQix14.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {169, 181}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{169, 181}</string>
+			<key>spriteSourceSize</key>
+			<string>{169, 181}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1025, 0}, {169, 181}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>giantQix15.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {165, 181}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{165, 181}</string>
+			<key>spriteSourceSize</key>
+			<string>{165, 181}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1196, 0}, {165, 181}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>giantQix16.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {164, 181}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{164, 181}</string>
+			<key>spriteSourceSize</key>
+			<string>{164, 181}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1363, 0}, {164, 181}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>giantQix17.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {164, 181}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{164, 181}</string>
+			<key>spriteSourceSize</key>
+			<string>{164, 181}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1529, 0}, {164, 181}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>giantQix18.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {164, 181}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{164, 181}</string>
+			<key>spriteSourceSize</key>
+			<string>{164, 181}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1695, 0}, {164, 181}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>giantQix19.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {164, 181}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{164, 181}</string>
+			<key>spriteSourceSize</key>
+			<string>{164, 181}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1861, 0}, {164, 181}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>giantQix2.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {164, 181}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{164, 181}</string>
+			<key>spriteSourceSize</key>
+			<string>{164, 181}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 186}, {164, 181}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>giantQix20.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {164, 181}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{164, 181}</string>
+			<key>spriteSourceSize</key>
+			<string>{164, 181}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{166, 186}, {164, 181}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>giantQix21.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {164, 181}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{164, 181}</string>
+			<key>spriteSourceSize</key>
+			<string>{164, 181}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{332, 186}, {164, 181}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>giantQix22.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {164, 183}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{164, 183}</string>
+			<key>spriteSourceSize</key>
+			<string>{164, 183}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{498, 186}, {164, 183}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>giantQix23.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {168, 180}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{168, 180}</string>
+			<key>spriteSourceSize</key>
+			<string>{168, 180}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{664, 186}, {168, 180}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>giantQix24.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {171, 178}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{171, 178}</string>
+			<key>spriteSourceSize</key>
+			<string>{171, 178}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{834, 186}, {171, 178}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>giantQix25.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {174, 174}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{174, 174}</string>
+			<key>spriteSourceSize</key>
+			<string>{174, 174}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1007, 186}, {174, 174}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>giantQix26.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {176, 169}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{176, 169}</string>
+			<key>spriteSourceSize</key>
+			<string>{176, 169}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1183, 186}, {176, 169}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>giantQix27.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {177, 166}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{177, 166}</string>
+			<key>spriteSourceSize</key>
+			<string>{177, 166}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1361, 186}, {177, 166}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>giantQix28.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {178, 174}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{178, 174}</string>
+			<key>spriteSourceSize</key>
+			<string>{178, 174}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1540, 186}, {178, 174}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>giantQix29.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {179, 181}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{179, 181}</string>
+			<key>spriteSourceSize</key>
+			<string>{179, 181}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1720, 186}, {179, 181}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>giantQix3.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {164, 181}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{164, 181}</string>
+			<key>spriteSourceSize</key>
+			<string>{164, 181}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 371}, {164, 181}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>giantQix30.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {177, 184}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{177, 184}</string>
+			<key>spriteSourceSize</key>
+			<string>{177, 184}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{166, 371}, {177, 184}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>giantQix31.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {177, 182}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{177, 182}</string>
+			<key>spriteSourceSize</key>
+			<string>{177, 182}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{345, 371}, {177, 182}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>giantQix32.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {176, 181}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{176, 181}</string>
+			<key>spriteSourceSize</key>
+			<string>{176, 181}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{524, 371}, {176, 181}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>giantQix33.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {171, 181}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{171, 181}</string>
+			<key>spriteSourceSize</key>
+			<string>{171, 181}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{702, 371}, {171, 181}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>giantQix34.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {164, 181}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{164, 181}</string>
+			<key>spriteSourceSize</key>
+			<string>{164, 181}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{875, 371}, {164, 181}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>giantQix35.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {165, 181}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{165, 181}</string>
+			<key>spriteSourceSize</key>
+			<string>{165, 181}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1041, 371}, {165, 181}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>giantQix4.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {164, 182}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{164, 182}</string>
+			<key>spriteSourceSize</key>
+			<string>{164, 182}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1208, 371}, {164, 182}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>giantQix5.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {166, 180}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{166, 180}</string>
+			<key>spriteSourceSize</key>
+			<string>{166, 180}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1374, 371}, {166, 180}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>giantQix6.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {165, 178}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{165, 178}</string>
+			<key>spriteSourceSize</key>
+			<string>{165, 178}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1542, 371}, {165, 178}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>giantQix7.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {168, 174}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{168, 174}</string>
+			<key>spriteSourceSize</key>
+			<string>{168, 174}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1709, 371}, {168, 174}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>giantQix8.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {170, 169}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{170, 169}</string>
+			<key>spriteSourceSize</key>
+			<string>{170, 169}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 557}, {170, 169}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>giantQix9.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {171, 166}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{171, 166}</string>
+			<key>spriteSourceSize</key>
+			<string>{171, 166}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{172, 557}, {171, 166}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>version</key>
+		<string>1.6.0</string>
+		<key>format</key>
+		<integer>3</integer>
+		<key>size</key>
+		<string>{2048, 2048}</string>
+		<key>name</key>
+		<string>Untitled</string>
+		<key>target</key>
+		<dict>
+			<key>name</key>
+			<string>default</string>
+			<key>textureFileName</key>
+			<string>giantQix</string>
+			<key>textureFileExtension</key>
+			<string>.png</string>
+			<key>coordinatesFileName</key>
+			<string>giantQix</string>
+			<key>coordinatesFileExtension</key>
+			<string>.plist</string>
+			<key>premultipliedAlpha</key>
+			<false/>
+		</dict>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		
+		<key>dust0.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{142, 108}, {58, 32}}</string>
+			<key>spriteOffset</key>
+			<string>{31, -34}</string>
+			<key>spriteSize</key>
+			<string>{58, 32}</string>
+			<key>spriteSourceSize</key>
+			<string>{280, 180}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 0}, {58, 32}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>dust1.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{100, 66}, {126, 96}}</string>
+			<key>spriteOffset</key>
+			<string>{23, -24}</string>
+			<key>spriteSize</key>
+			<string>{126, 96}</string>
+			<key>spriteSourceSize</key>
+			<string>{280, 180}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{60, 0}, {126, 96}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>dust10.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{25, 44}, {254, 124}}</string>
+			<key>spriteOffset</key>
+			<string>{12, -16}</string>
+			<key>spriteSize</key>
+			<string>{254, 124}</string>
+			<key>spriteSourceSize</key>
+			<string>{280, 180}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{188, 0}, {254, 124}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>dust2.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{99, 56}, {134, 116}}</string>
+			<key>spriteOffset</key>
+			<string>{26, -24}</string>
+			<key>spriteSize</key>
+			<string>{134, 116}</string>
+			<key>spriteSourceSize</key>
+			<string>{280, 180}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{444, 0}, {134, 116}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>dust3.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{71, 42}, {192, 128}}</string>
+			<key>spriteOffset</key>
+			<string>{27, -16}</string>
+			<key>spriteSize</key>
+			<string>{192, 128}</string>
+			<key>spriteSourceSize</key>
+			<string>{280, 180}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{580, 0}, {192, 128}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>dust4.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{21, 29}, {242, 142}}</string>
+			<key>spriteOffset</key>
+			<string>{2, -10}</string>
+			<key>spriteSize</key>
+			<string>{242, 142}</string>
+			<key>spriteSourceSize</key>
+			<string>{280, 180}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{774, 0}, {242, 142}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>dust5.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{29, 24}, {236, 150}}</string>
+			<key>spriteOffset</key>
+			<string>{7, -9}</string>
+			<key>spriteSize</key>
+			<string>{236, 150}</string>
+			<key>spriteSourceSize</key>
+			<string>{280, 180}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 144}, {236, 150}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>dust6.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{20, 13}, {244, 160}}</string>
+			<key>spriteOffset</key>
+			<string>{2, -3}</string>
+			<key>spriteSize</key>
+			<string>{244, 160}</string>
+			<key>spriteSourceSize</key>
+			<string>{280, 180}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{238, 144}, {244, 160}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>dust7.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{20, 13}, {252, 162}}</string>
+			<key>spriteOffset</key>
+			<string>{6, -4}</string>
+			<key>spriteSize</key>
+			<string>{252, 162}</string>
+			<key>spriteSourceSize</key>
+			<string>{280, 180}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{484, 144}, {252, 162}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>dust8.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{37, 11}, {242, 166}}</string>
+			<key>spriteOffset</key>
+			<string>{18, -4}</string>
+			<key>spriteSize</key>
+			<string>{242, 166}</string>
+			<key>spriteSourceSize</key>
+			<string>{280, 180}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{738, 144}, {242, 166}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>dust9.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{20, 35}, {256, 142}}</string>
+			<key>spriteOffset</key>
+			<string>{8, -16}</string>
+			<key>spriteSize</key>
+			<string>{256, 142}</string>
+			<key>spriteSourceSize</key>
+			<string>{280, 180}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 312}, {256, 142}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>version</key>
+		<string>1.6.0</string>
+		<key>format</key>
+		<integer>3</integer>
+		<key>size</key>
+		<string>{1024, 1024}</string>
+		<key>name</key>
+		<string>Untitled</string>
+		<key>target</key>
+		<dict>
+			<key>name</key>
+			<string>default</string>
+			<key>textureFileName</key>
+			<string>dustUnder</string>
+			<key>textureFileExtension</key>
+			<string>.png</string>
+			<key>coordinatesFileName</key>
+			<string>dustUnder</string>
+			<key>coordinatesFileExtension</key>
+			<string>.plist</string>
+			<key>premultipliedAlpha</key>
+			<false/>
+		</dict>
+	</dict>
+</dict>
+</plist>

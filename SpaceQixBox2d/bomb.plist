@@ -1,0 +1,454 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		
+		<key>bomb0.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{51, 70}, {59, 75}}</string>
+			<key>spriteOffset</key>
+			<string>{2, 7}</string>
+			<key>spriteSize</key>
+			<string>{59, 75}</string>
+			<key>spriteSourceSize</key>
+			<string>{157, 229}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 0}, {59, 75}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>bomb1.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{34, 57}, {107, 131}}</string>
+			<key>spriteOffset</key>
+			<string>{9, -8}</string>
+			<key>spriteSize</key>
+			<string>{107, 131}</string>
+			<key>spriteSourceSize</key>
+			<string>{157, 229}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{61, 0}, {107, 131}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>bomb10.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{10, 6}, {139, 187}}</string>
+			<key>spriteOffset</key>
+			<string>{1, 15}</string>
+			<key>spriteSize</key>
+			<string>{139, 187}</string>
+			<key>spriteSourceSize</key>
+			<string>{157, 229}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{170, 0}, {139, 187}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>bomb11.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{11, 6}, {139, 189}}</string>
+			<key>spriteOffset</key>
+			<string>{2, 14}</string>
+			<key>spriteSize</key>
+			<string>{139, 189}</string>
+			<key>spriteSourceSize</key>
+			<string>{157, 229}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{311, 0}, {139, 189}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>bomb12.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{11, 9}, {129, 159}}</string>
+			<key>spriteOffset</key>
+			<string>{-3, 26}</string>
+			<key>spriteSize</key>
+			<string>{129, 159}</string>
+			<key>spriteSourceSize</key>
+			<string>{157, 229}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{452, 0}, {129, 159}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>bomb13.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{15, 7}, {123, 159}}</string>
+			<key>spriteOffset</key>
+			<string>{-2, 28}</string>
+			<key>spriteSize</key>
+			<string>{123, 159}</string>
+			<key>spriteSourceSize</key>
+			<string>{157, 229}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{583, 0}, {123, 159}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>bomb14.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{16, 9}, {121, 155}}</string>
+			<key>spriteOffset</key>
+			<string>{-2, 28}</string>
+			<key>spriteSize</key>
+			<string>{121, 155}</string>
+			<key>spriteSourceSize</key>
+			<string>{157, 229}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{708, 0}, {121, 155}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>bomb15.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{16, 5}, {119, 157}}</string>
+			<key>spriteOffset</key>
+			<string>{-3, 31}</string>
+			<key>spriteSize</key>
+			<string>{119, 157}</string>
+			<key>spriteSourceSize</key>
+			<string>{157, 229}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{831, 0}, {119, 157}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>bomb16.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{19, 3}, {113, 143}}</string>
+			<key>spriteOffset</key>
+			<string>{-3, 40}</string>
+			<key>spriteSize</key>
+			<string>{113, 143}</string>
+			<key>spriteSourceSize</key>
+			<string>{157, 229}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 191}, {113, 143}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>bomb17.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{19, 1}, {113, 115}}</string>
+			<key>spriteOffset</key>
+			<string>{-3, 56}</string>
+			<key>spriteSize</key>
+			<string>{113, 115}</string>
+			<key>spriteSourceSize</key>
+			<string>{157, 229}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{115, 191}, {113, 115}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>bomb18.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{19, 0}, {111, 111}}</string>
+			<key>spriteOffset</key>
+			<string>{-4, 59}</string>
+			<key>spriteSize</key>
+			<string>{111, 111}</string>
+			<key>spriteSourceSize</key>
+			<string>{157, 229}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{230, 191}, {111, 111}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>bomb2.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{19, 45}, {123, 161}}</string>
+			<key>spriteOffset</key>
+			<string>{2, -11}</string>
+			<key>spriteSize</key>
+			<string>{123, 161}</string>
+			<key>spriteSourceSize</key>
+			<string>{157, 229}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{342, 191}, {123, 161}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>bomb3.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{4, 26}, {153, 203}}</string>
+			<key>spriteOffset</key>
+			<string>{2, -13}</string>
+			<key>spriteSize</key>
+			<string>{153, 203}</string>
+			<key>spriteSourceSize</key>
+			<string>{157, 229}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{468, 191}, {153, 203}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>bomb4.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{8, 27}, {139, 189}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, -7}</string>
+			<key>spriteSize</key>
+			<string>{139, 189}</string>
+			<key>spriteSourceSize</key>
+			<string>{157, 229}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{623, 191}, {139, 189}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>bomb5.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{6, 11}, {145, 203}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 2}</string>
+			<key>spriteSize</key>
+			<string>{145, 203}</string>
+			<key>spriteSourceSize</key>
+			<string>{157, 229}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{764, 191}, {145, 203}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>bomb6.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{3, 10}, {145, 201}}</string>
+			<key>spriteOffset</key>
+			<string>{-3, 4}</string>
+			<key>spriteSize</key>
+			<string>{145, 201}</string>
+			<key>spriteSourceSize</key>
+			<string>{157, 229}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 396}, {145, 201}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>bomb7.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{0, 11}, {143, 187}}</string>
+			<key>spriteOffset</key>
+			<string>{-7, 10}</string>
+			<key>spriteSize</key>
+			<string>{143, 187}</string>
+			<key>spriteSourceSize</key>
+			<string>{157, 229}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{147, 396}, {143, 187}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>bomb8.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{1, 10}, {145, 183}}</string>
+			<key>spriteOffset</key>
+			<string>{-5, 13}</string>
+			<key>spriteSize</key>
+			<string>{145, 183}</string>
+			<key>spriteSourceSize</key>
+			<string>{157, 229}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{292, 396}, {145, 183}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>bomb9.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{8, 9}, {145, 183}}</string>
+			<key>spriteOffset</key>
+			<string>{2, 14}</string>
+			<key>spriteSize</key>
+			<string>{145, 183}</string>
+			<key>spriteSourceSize</key>
+			<string>{157, 229}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{439, 396}, {145, 183}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>version</key>
+		<string>1.6.0</string>
+		<key>format</key>
+		<integer>3</integer>
+		<key>size</key>
+		<string>{1024, 1024}</string>
+		<key>name</key>
+		<string>Untitled</string>
+		<key>target</key>
+		<dict>
+			<key>name</key>
+			<string>default</string>
+			<key>textureFileName</key>
+			<string>bomb</string>
+			<key>textureFileExtension</key>
+			<string>.png</string>
+			<key>coordinatesFileName</key>
+			<string>bomb</string>
+			<key>coordinatesFileExtension</key>
+			<string>.plist</string>
+			<key>premultipliedAlpha</key>
+			<false/>
+		</dict>
+	</dict>
+</dict>
+</plist>

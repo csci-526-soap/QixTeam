@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<game>
+	<levels>
+		<level id="1" active="true">
+			<qixs>
+				<qix name="walker" id="1">
+					<position layout="relative" x="0.5" y="1.0"/>
+				</qix>
+				<qix name="walker" id="2">
+					<position layout="relative" x="1.0" y="0.0"/>
+				</qix>
+				<qix name="guard" id="10">
+					<position layout="absolute" x="100" y="250"/>
+				</qix>
+				<qix name="guard" id="10">
+					<position layout="absolute" x="400" y="150"/>
+				</qix>
+				<qix name="guard" id="10">
+					<position layout="absolute" x="200" y="80"/>
+				</qix>
+				<qix name="qix" id="20">
+					<position layout="absolute" x="280" y="160"/>
+				</qix>
+			</qixs>
+			<player id="1">
+				<position layout="relative" x="0.33" y="0.0"/>
+			</player>
+			<armors>
+				<armor name="sun" id="">
+					<position layout="absolute" x="" y=""/>
+				</armor>
+				<armor name="moon" id="">
+					<position layout="absolute" x="" y=""/>
+				</armor>
+			</armors>
+		</level>
+	</levels>
+</game>

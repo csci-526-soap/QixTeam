@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>6E66027B-6FC0-4B84-B106-4DC798FB0150</string>
+	<key>IDESourceControlProjectName</key>
+	<string>SpaceQix</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>E750DBCF-0D2E-49AF-9F15-06FD81171857</key>
+		<string>http://triforce.usc.edu/svn/2014SPRING/MobileGames/Qix/trunk</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>SpaceQix/SpaceQix.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>E750DBCF-0D2E-49AF-9F15-06FD81171857</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>E750DBCF-0D2E-49AF-9F15-06FD81171857</key>
+		<string>http://triforce.usc.edu/svn/2014SPRING</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>http://triforce.usc.edu/svn/2014SPRING/MobileGames/Qix/trunk/SpaceQix/SpaceQix.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>E750DBCF-0D2E-49AF-9F15-06FD81171857</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryBranchesRelativeLocationKey</key>
+			<string>MobileGames/Qix/branches</string>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlRepositoryTagsRelativeLocationKey</key>
+			<string>MobileGames/Qix/tags</string>
+			<key>IDESourceControlRepositoryTrunkRelativeLocationKey</key>
+			<string>MobileGames/Qix/trunk</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>E750DBCF-0D2E-49AF-9F15-06FD81171857</string>
+			<key>IDESourceControlWCCName</key>
+			<string>SpaceQix</string>
+		</dict>
+	</array>
+</dict>
+</plist>

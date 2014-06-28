@@ -1,0 +1,410 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		
+		<key>iceExplode0.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{45, 53}, {100, 98}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -7}</string>
+			<key>spriteSize</key>
+			<string>{100, 98}</string>
+			<key>spriteSourceSize</key>
+			<string>{190, 190}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 0}, {100, 98}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>iceExplode1.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{34, 19}, {144, 134}}</string>
+			<key>spriteOffset</key>
+			<string>{11, 9}</string>
+			<key>spriteSize</key>
+			<string>{144, 134}</string>
+			<key>spriteSourceSize</key>
+			<string>{190, 190}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{102, 0}, {144, 134}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>iceExplode10.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{7, 8}, {182, 164}}</string>
+			<key>spriteOffset</key>
+			<string>{3, 5}</string>
+			<key>spriteSize</key>
+			<string>{182, 164}</string>
+			<key>spriteSourceSize</key>
+			<string>{190, 190}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{248, 0}, {182, 164}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>iceExplode11.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{4, 8}, {186, 170}}</string>
+			<key>spriteOffset</key>
+			<string>{2, 2}</string>
+			<key>spriteSize</key>
+			<string>{186, 170}</string>
+			<key>spriteSourceSize</key>
+			<string>{190, 190}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{432, 0}, {186, 170}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>iceExplode12.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{14, 10}, {176, 170}}</string>
+			<key>spriteOffset</key>
+			<string>{7, -0}</string>
+			<key>spriteSize</key>
+			<string>{176, 170}</string>
+			<key>spriteSourceSize</key>
+			<string>{190, 190}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{620, 0}, {176, 170}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>iceExplode13.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{14, 14}, {160, 168}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, -3}</string>
+			<key>spriteSize</key>
+			<string>{160, 168}</string>
+			<key>spriteSourceSize</key>
+			<string>{190, 190}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{798, 0}, {160, 168}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>iceExplode14.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{17, 21}, {154, 156}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, -4}</string>
+			<key>spriteSize</key>
+			<string>{154, 156}</string>
+			<key>spriteSourceSize</key>
+			<string>{190, 190}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 172}, {154, 156}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>iceExplode15.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{26, 18}, {138, 152}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 1}</string>
+			<key>spriteSize</key>
+			<string>{138, 152}</string>
+			<key>spriteSourceSize</key>
+			<string>{190, 190}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{156, 172}, {138, 152}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>iceExplode16.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{42, 16}, {120, 142}}</string>
+			<key>spriteOffset</key>
+			<string>{7, 8}</string>
+			<key>spriteSize</key>
+			<string>{120, 142}</string>
+			<key>spriteSourceSize</key>
+			<string>{190, 190}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{296, 172}, {120, 142}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>iceExplode2.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{25, 16}, {154, 140}}</string>
+			<key>spriteOffset</key>
+			<string>{7, 9}</string>
+			<key>spriteSize</key>
+			<string>{154, 140}</string>
+			<key>spriteSourceSize</key>
+			<string>{190, 190}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{418, 172}, {154, 140}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>iceExplode3.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{45, 55}, {100, 98}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -9}</string>
+			<key>spriteSize</key>
+			<string>{100, 98}</string>
+			<key>spriteSourceSize</key>
+			<string>{190, 190}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{574, 172}, {100, 98}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>iceExplode4.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{44, 51}, {106, 106}}</string>
+			<key>spriteOffset</key>
+			<string>{2, -9}</string>
+			<key>spriteSize</key>
+			<string>{106, 106}</string>
+			<key>spriteSourceSize</key>
+			<string>{190, 190}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{676, 172}, {106, 106}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>iceExplode5.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{35, 36}, {134, 124}}</string>
+			<key>spriteOffset</key>
+			<string>{7, -3}</string>
+			<key>spriteSize</key>
+			<string>{134, 124}</string>
+			<key>spriteSourceSize</key>
+			<string>{190, 190}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{784, 172}, {134, 124}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>iceExplode6.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{22, 24}, {154, 140}}</string>
+			<key>spriteOffset</key>
+			<string>{4, 1}</string>
+			<key>spriteSize</key>
+			<string>{154, 140}</string>
+			<key>spriteSourceSize</key>
+			<string>{190, 190}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 330}, {154, 140}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>iceExplode7.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{17, 18}, {164, 156}}</string>
+			<key>spriteOffset</key>
+			<string>{4, -1}</string>
+			<key>spriteSize</key>
+			<string>{164, 156}</string>
+			<key>spriteSourceSize</key>
+			<string>{190, 190}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{156, 330}, {164, 156}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>iceExplode8.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{13, 15}, {172, 162}}</string>
+			<key>spriteOffset</key>
+			<string>{4, -1}</string>
+			<key>spriteSize</key>
+			<string>{172, 162}</string>
+			<key>spriteSourceSize</key>
+			<string>{190, 190}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{322, 330}, {172, 162}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>iceExplode9.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{10, 11}, {178, 162}}</string>
+			<key>spriteOffset</key>
+			<string>{4, 3}</string>
+			<key>spriteSize</key>
+			<string>{178, 162}</string>
+			<key>spriteSourceSize</key>
+			<string>{190, 190}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{496, 330}, {178, 162}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>version</key>
+		<string>1.6.0</string>
+		<key>format</key>
+		<integer>3</integer>
+		<key>size</key>
+		<string>{1024, 1024}</string>
+		<key>name</key>
+		<string>Untitled</string>
+		<key>target</key>
+		<dict>
+			<key>name</key>
+			<string>default</string>
+			<key>textureFileName</key>
+			<string>iceExplode</string>
+			<key>textureFileExtension</key>
+			<string>.png</string>
+			<key>coordinatesFileName</key>
+			<string>iceExplode</string>
+			<key>coordinatesFileExtension</key>
+			<string>.plist</string>
+			<key>premultipliedAlpha</key>
+			<false/>
+		</dict>
+	</dict>
+</dict>
+</plist>
